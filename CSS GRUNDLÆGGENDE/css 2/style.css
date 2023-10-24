@@ -1,0 +1,16 @@
+body{
+  color: white;
+  background-color: #3d9b7d;
+}
+
+#booo{
+  background-color: hsla(146, 55%, 38%, 0.5); 
+}
+
+#grey{
+  background-color: hsl(0, 0%, 50%);
+}
+
+#blue{
+  background-color: blue;
+}
